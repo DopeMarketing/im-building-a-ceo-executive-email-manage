@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #f43f5e;
+  --color-primary-light: #f43f5e20;
+  --color-primary-dark: #f43f5e;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #f9fafb;
+  color: #111827;
+  font-family: var(--font-inter);
+}
